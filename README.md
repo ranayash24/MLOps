@@ -1,2 +1,2 @@
 # MLOps
-this is only for learning purpose
+This is only for learning purpose
